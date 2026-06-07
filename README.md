@@ -17,7 +17,7 @@ You'll find a mix of projects, experiments, coursework, and learning-focused bui
 | Data Science | Pandas • NumPy • Matplotlib • Seaborn |
 | Computer Vision | OpenCV • YOLO |
 | Web & Deployment | Streamlit • Django |
-| Cloud & DevOps | Docker • Kubernetes • AWS (Learning) |
+| Cloud & DevOps | Docker • Kubernetes • AWS |
 | Tools & Workflow | Git • GitHub • VS Code • Jupyter • Google Colab |
 
 ## Current Focus
