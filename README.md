@@ -12,7 +12,7 @@ You'll find a mix of projects, experiments, coursework, and learning-focused bui
 
 | Category | Stack |
 |----------|--------|
-| Languages | Python • Java • C • SQL |
+| Languages | Python • Java • SQL |
 | Machine Learning | Scikit-Learn • PyTorch • TensorFlow |
 | Data Science | Pandas • NumPy • Matplotlib • Seaborn |
 | Computer Vision | OpenCV • YOLO |
