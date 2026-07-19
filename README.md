@@ -1,48 +1,220 @@
-# Hi there, I'm Dhanuja.
+<div align="center">
 
-I'm a student developer interested in machine learning, computer vision, cloud technologies, and building practical AI solutions.
+# Hi there, I'm Dhanuja M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 
-I enjoy building projects that solve real-world problems and continuously learning through hands-on development.
+### AI & Data Science Undergraduate
 
-Most of my experience comes from working across machine learning, data science, computer vision, and software development, with a strong focus on practical implementation.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+Solutions+for+Real+World+Problems" alt="Typing SVG" />
 
-You'll find a mix of projects, experiments, coursework, and learning-focused builds here.
+<br>
 
-## Tech Stack
+<p align="center">
+<a href="https://github.com/Dhanujam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-| Category | Stack |
-|----------|--------|
-| Languages | Python • Java • SQL |
-| Machine Learning | Scikit-Learn • PyTorch • TensorFlow |
-| Data Science | Pandas • NumPy • Matplotlib • Seaborn |
-| Computer Vision | OpenCV • YOLO |
-| Web & Deployment | Streamlit • Django |
-| Cloud & DevOps | Docker • Kubernetes • AWS |
-| Tools & Workflow | Git • GitHub • VS Code • Jupyter • Google Colab |
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## Current Focus
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- Data Structures & Algorithms
-- Machine Learning Engineering
-- Deep Learning and Computer Vision
-- Cloud Computing & MLOps
-- Building end-to-end AI applications
+</p>
 
-## Featured Projects
+<img src="https://komarev.com/ghpvc/?username=Dhanujam&style=for-the-badge&color=0e75b6"/>
 
-### ToxicTrend AI
-Machine learning-based toxicity detection platform with Streamlit deployment.
+</div>
 
-### Fake News Detection
-NLP-based classification system using TF-IDF and Logistic Regression.
+---
 
-### Marine Pollution Detection
-YOLO-based object detection system developed during a hackathon.
+# 💫 About Me
 
-### Titanic Survival Prediction
-Machine learning classification project using structured tabular data.
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-## Connect
+I'm an **Artificial Intelligence & Data Science** undergraduate passionate about building intelligent systems that solve real-world problems.
 
-- LinkedIn: www.linkedin.com/in/dhanuja-muthuraman
-- GitHub: [github.com/Dhanujam](https://github.com/Dhanujam)
+I enjoy transforming ideas into impactful AI solutions through **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Data Analytics**.
+
+My journey is driven by curiosity, continuous learning, and a desire to build technology that creates meaningful impact.
+
+### 💡 What defines me
+
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Love turning raw data into actionable insights
+- 💻 Building AI-powered applications using Python
+- 🧠 Exploring Deep Learning & Computer Vision
+- 🚀 Continuously improving my problem-solving skills
+- 🌱 Always learning and experimenting with emerging AI technologies
+
+---
+
+# <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="32"/> Tech Stack
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td valign="top" width="33%">
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+</p>
+
+<br>
+
+## 🌐 Frameworks
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td valign="top" width="33%">
+
+## ⚙️ IDEs
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm" height="55"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## ☁️ Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Areas of Interest
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-2196F3?style=for-the-badge"/>
+
+</div>
+
+---
+
