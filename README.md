@@ -23,8 +23,6 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanujam&style=for-the-badge&color=0e75b6"/>
-
 </div>
 
 ---
@@ -34,6 +32,16 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 
+
+
+
+
+
+
+
+
+
+      
 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📊 Love turning raw data into actionable insights
